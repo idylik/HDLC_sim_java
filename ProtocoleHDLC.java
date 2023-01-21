@@ -1,7 +1,3 @@
-/*
-Michel Adant C1176
-Maryna Starastsenka 20166402
- */
 
 import java.io.IOException;
 import java.util.Scanner;
